@@ -10,6 +10,6 @@ pip install ultralytics
 ```
 # Training
 
-The pretrained model urls of ObjectDetection([GitHub Pages](https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov8x.pt)), semantic Segmentation(), Keypoint Detection()]
+The pretrained model urls of ObjectDetection([YOLOv8x](https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov8x.pt)), semantic Segmentation([YOLOv8x-seg](https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov8x-seg.pt)), Keypoint Detection([YOLOv8x-pose-p6](https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov8x-pose-p6.pt))]
 
 
