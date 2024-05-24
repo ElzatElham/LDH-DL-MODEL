@@ -1,0 +1,9 @@
+
+train: /Data/dataset/images/train
+val:    /Data/dataset/images/val 
+
+# Keypoints
+kpt_shape: [9, 3]
+
+# Classes
+names: ['0']

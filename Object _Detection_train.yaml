@@ -1,0 +1,6 @@
+train: /Data/dataset/images/train
+val:    /Data/dataset/images/val
+
+# Classes
+names: ['0', '1']
+  
