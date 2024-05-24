@@ -21,9 +21,18 @@ python YOLOV8_training.py --weights yolov8.pt  --data /home/data.yaml  --epochs 
 
 Testing model:
 ```
-python YOLOV8_training.py --weights yolov8.pt  --data /home/data.yaml  --epochs 200 --imgsz 512 --batch 16 --device 0 --patience 50 --name train_result
+python YOLOV8_testing.py --weights --weights yolov8.pt  --data /home/data.yaml --device 0
 ```
 
+# Citation
+```
+@article{jocher2023yolo,
+  title={YOLO by Ultralytics},
+  author={Jocher, Glenn and Chaurasia, Ayush and Qiu, Jing},
+  year={2023},
+  publisher={Jan}
+}
+```
 
 
 
