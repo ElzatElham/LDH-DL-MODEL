@@ -1,7 +1,7 @@
 # LDH-DL-MODEL
 This is the official PyTorch implementation of our paper: 
 
-Quantification and Classification of Lumbar Disc Herniation on Axial Magnetic Resonance Images Using Deep Learning Models
+**Quantification and Classification of Lumbar Disc Herniation on Axial Magnetic Resonance Images Using Deep Learning Models**
 ![image](https://github.com/ElzatElham/LDH-DL-MODEL/blob/main/image.png)
 
 # Installation
