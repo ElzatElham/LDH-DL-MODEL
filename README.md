@@ -5,5 +5,9 @@ This is the official PyTorch implementation of our paper: Quantification and Cla
 # Install
 
 Pip install the YOLOV8 package including all requirements in a Python>=3.8 environment with PyTorch>=1.8.
-
+```
+git status
+git add
+git commit
+```
 pip install ultralytics
